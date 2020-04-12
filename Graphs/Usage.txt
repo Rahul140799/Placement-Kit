@@ -1,0 +1,18 @@
+				BFS
+
+1) If a Solution is not far from the root of the tree
+
+2) If tree is very deep and solutions are rare ( DFS will take long time )
+
+3) Finding the shortest path
+
+
+				DFS
+
+
+3) If tree is wide ( BFS needs too much memory )
+
+4) Solutions are frequent and located deep inside the tree
+
+5) Determining whether a path exists between two nodes
+
